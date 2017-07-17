@@ -1,0 +1,7 @@
+C:\Users\arcelik\documents\visual studio 2010\Projects\label büyültme küçülme\label büyültme küçülme\bin\Debug\label büyültme küçülme.exe
+C:\Users\arcelik\documents\visual studio 2010\Projects\label büyültme küçülme\label büyültme küçülme\bin\Debug\label büyültme küçülme.pdb
+C:\Users\arcelik\documents\visual studio 2010\Projects\label büyültme küçülme\label büyültme küçülme\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\arcelik\documents\visual studio 2010\Projects\label büyültme küçülme\label büyültme küçülme\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\arcelik\documents\visual studio 2010\Projects\label büyültme küçülme\label büyültme küçülme\obj\x86\Debug\label büyültme küçülme.csproj.GenerateResource.Cache
+C:\Users\arcelik\documents\visual studio 2010\Projects\label büyültme küçülme\label büyültme küçülme\obj\x86\Debug\label büyültme küçülme.exe
+C:\Users\arcelik\documents\visual studio 2010\Projects\label büyültme küçülme\label büyültme küçülme\obj\x86\Debug\label büyültme küçülme.pdb
